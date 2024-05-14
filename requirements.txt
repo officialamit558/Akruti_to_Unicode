@@ -3,4 +3,3 @@ python-docx
 PyPDF2
 zipfile
 tempfile
-pyinstaller
